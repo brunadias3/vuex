@@ -28,12 +28,11 @@ export default {
     padding: 10px 20px;
 }
 
-#product-list-two ul {
+#product-list-one ul {
     padding: 0;
-    list-style-type: none;
 }
 
-#product-list-two li {
+#product-list-one li {
     display: inline-block;
     margin-right: 10px;
     margin-top: 10px;
@@ -43,7 +42,7 @@ export default {
 
 .price {
     font-weight: bold;
-    color: #860CE8;
+    color: #E8800C;
 }
 </style>
   
